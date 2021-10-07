@@ -1,0 +1,248 @@
+neurogenesis
+chemorepulsion of branchiomotor axon
+neuronal stem cell population maintenance
+oligodendrocyte development
+spinal cord oligodendrocyte cell fate specification
+positive regulation of axon extension involved in axon guidance
+negative regulation of glial cell proliferation
+regulation of axon extension
+neuron development
+regulation of neuron differentiation
+olfactory bulb axon guidance
+negative regulation of axon extension involved in axon guidance
+planar cell polarity pathway involved in midbrain dopaminergic neuron differentiation
+neuron projection extension
+positive regulation of gliogenesis
+optic nerve development
+regulation of forebrain neuron differentiation
+negative regulation of neuron death
+regulation of myelination
+regulation of long-term neuronal synaptic plasticity
+astrocyte-dopaminergic neuron signaling
+neuron projection regeneration
+glial cell migration
+regulation of gliogenesis
+negative regulation of myelination
+positive regulation of neuronal action potential
+planar cell polarity pathway involved in axon guidance
+positive regulation of myelination
+enteric nervous system development
+regulation of dendrite morphogenesis
+axon extension involved in axon guidance
+myelination
+peripheral nervous system axon regeneration
+axon target recognition
+positive regulation of neuron apoptotic process
+central nervous system neuron axonogenesis
+regulation of timing of subpallium neuron differentiation
+axon midline choice point recognition
+positive regulation of dopaminergic neuron differentiation
+oculomotor nerve development
+negative regulation of motor neuron apoptotic process
+anterior/posterior axon guidance
+nervous system development
+negative regulation of neuron differentiation
+negative regulation of transmission of nerve impulse
+optic nerve structural organization
+glial cell fate commitment
+sympathetic nervous system development
+negative regulation of neurogenesis
+glial cell differentiation
+neuron fate commitment
+establishment of glial blood-brain barrier
+myelin maintenance
+dendrite extension
+sympathetic neuron projection guidance
+regulation of neuron maturation
+striatal medium spiny neuron differentiation
+negative regulation of axon extension
+regulation of glial cell differentiation
+facial nerve structural organization
+cerebral cortex neuron differentiation
+noradrenergic neuron differentiation
+retinal ganglion cell axon guidance
+negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation
+positive regulation of axon extension
+regulation of neuron apoptotic process
+noradrenergic neuron fate commitment
+myelin assembly
+central nervous system neuron differentiation
+anterograde axonal transport
+glial cell development
+subpallium neuron fate commitment
+myelination in peripheral nervous system
+glial cell-derived neurotrophic factor receptor signaling pathway
+regulation of neurogenesis
+branching morphogenesis of a nerve
+gliogenesis
+spinal cord motor neuron cell fate specification
+dopaminergic neuron differentiation
+negative regulation of axon regeneration
+radial glial cell differentiation
+positive regulation of forebrain neuron differentiation
+positive regulation of oligodendrocyte differentiation
+neuron projection guidance
+neuron differentiation
+axonogenesis
+regulation of neuronal signal transduction
+regulation of axon regeneration
+negative regulation of neuron apoptotic process
+regulation of neuron death
+positive regulation of neuron maturation
+neuron fate specification
+nerve growth factor processing
+negative regulation of glial cell apoptotic process
+negative regulation of dendrite development
+semaphorin-plexin signaling pathway involved in axon guidance
+negative regulation of oxidative stress-induced neuron death
+motor neuron axon guidance
+negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+sympathetic neuron projection extension
+positive regulation of optic nerve formation
+glial cell fate determination
+positive regulation of neuron differentiation
+trigeminal nerve structural organization
+negative regulation of forebrain neuron differentiation
+radial glia guided migration of Purkinje cell
+negative regulation of dendritic cell dendrite assembly
+positive regulation of neurogenesis
+VEGF-activated neuropilin signaling pathway involved in axon guidance
+axon ensheathment
+cell morphogenesis involved in neuron differentiation
+neuronal signal transduction
+central nervous system myelin maintenance
+GABAergic neuron differentiation
+forebrain neuron differentiation
+gonadotrophin-releasing hormone neuronal migration to the hypothalamus
+negative regulation of neuron maturation
+negative regulation of dopaminergic neuron differentiation
+neuron apoptotic process
+regulation of neuronal synaptic plasticity
+central nervous system vasculogenesis
+positive regulation of retinal ganglion cell axon guidance
+negative regulation of collateral sprouting of intact axon in response to injury
+regulation of dopaminergic neuron differentiation
+negative regulation of nerve growth factor production
+retrograde axonal transport
+chemorepulsion of dopaminergic neuron axon
+neuron fate determination
+sensory neuron axon guidance
+optic nerve morphogenesis
+positive regulation of dendrite development
+central nervous system morphogenesis
+cranial nerve development
+formation of radial glial scaffolds
+trigeminal nerve development
+negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway
+trochlear nerve development
+neuron projection development
+nerve growth factor signaling pathway
+chemoattraction of serotonergic neuron axon
+central nervous system myelination
+oculomotor nerve formation
+peripheral nervous system neuron axonogenesis
+glial cell apoptotic process
+negative regulation of neuron projection regeneration
+olfactory nerve development
+regulation of axonogenesis
+forebrain neuron fate commitment
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration
+branchiomotor neuron axon guidance
+axon regeneration
+Bergmann glial cell differentiation
+visceral motor neuron differentiation
+peripheral nervous system neuron development
+neural crest cell migration involved in sympathetic nervous system development
+positive regulation of glial cell-derived neurotrophic factor secretion
+protein localization to juxtaparanode region of axon
+regulation of neuron projection development
+peripheral nervous system myelin maintenance
+nerve growth factor production
+neuron projection morphogenesis
+central nervous system development
+regulation of axon diameter
+regulation of timing of neuron differentiation
+regulation of axon extension involved in axon guidance
+negative regulation of dendrite morphogenesis
+oligodendrocyte apoptotic process
+response to axon injury
+commissural neuron axon guidance
+regulation of short-term neuronal synaptic plasticity
+positive regulation of neuron projection regeneration
+positive regulation of dendrite morphogenesis
+positive regulation of neuron projection development
+forebrain radial glial cell differentiation
+axon guidance
+positive regulation of oligodendrocyte progenitor proliferation
+dendrite morphogenesis
+negative regulation of oligodendrocyte apoptotic process
+positive regulation of transmission of nerve impulse
+canonical Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation
+neuron maturation
+vestibulocochlear nerve formation
+negative regulation of neuron migration
+positive regulation of glial cell proliferation
+regulation of neuron migration
+negative regulation of oligodendrocyte differentiation
+establishment of protein localization to juxtaparanode region of axon
+neural crest cell migration involved in autonomic nervous system development
+glossopharyngeal nerve morphogenesis
+positive regulation of long-term neuronal synaptic plasticity
+forebrain neuron development
+positive regulation of neuron death
+regulation of glial cell proliferation
+negative regulation of neuron projection development
+positive regulation of axonogenesis
+positive regulation of dendritic cell dendrite assembly
+Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation
+neuron cell-cell adhesion
+cellular response to nerve growth factor stimulus
+central nervous system neuron development
+positive regulation of dendrite extension
+oligodendrocyte differentiation
+positive regulation of neuron migration
+neuron death
+axon development
+central nervous system myelin formation
+response to nerve growth factor
+transmission of nerve impulse
+axonal fasciculation
+dendrite development
+axonal transport of mitochondrion
+positive regulation of midbrain dopaminergic neuron differentiation
+regulation of transmission of nerve impulse
+noradrenergic neuron development
+peripheral nervous system myelin formation
+midbrain dopaminergic neuron differentiation
+axon extension involved in regeneration
+negative regulation of hydrogen peroxide-induced neuron death
+vagus nerve morphogenesis
+neuron remodeling
+positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+organ regeneration
+nerve development
+glial cell proliferation
+neuronal action potential
+pyramidal neuron development
+vestibulocochlear nerve structural organization
+regulation of neuronal action potential
+axonogenesis involved in innervation
+neuron migration
+regulation of retinal ganglion cell axon guidance
+regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+negative regulation of axonogenesis
+spinal cord motor neuron differentiation
+dorsal/ventral axon guidance
+motor neuron apoptotic process
+positive regulation of axon regeneration
+spinal cord association neuron differentiation
+commitment of neuronal cell to specific neuron type in forebrain
+peripheral nervous system development
+regulation of dendrite development
+central nervous system projection neuron axonogenesis
+determination of left/right asymmetry in nervous system
+semaphorin-plexin signaling pathway involved in neuron projection guidance
+regulation of oligodendrocyte progenitor proliferation
+negative regulation of glial cell differentiation
+axon extension
+oligodendrocyte cell fate specification

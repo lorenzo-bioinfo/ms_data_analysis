@@ -1,0 +1,160 @@
+	SNPS	DISEASE/TRAIT	CHR_ID	STRONGEST SNP-RISK ALLELE	P-VALUE	PUBMEDID	NCBI_gene1	NCBI_info1	NCBI_gene2	NCBI_info2
+22	rs1799964	Crohn's disease	6	rs1799964-C	4e-11	21102463	LOC100287329 	 2KB Upstream Variant	TNF 	 2KB Upstream Variant
+25	rs12722489	Crohn's disease	10	rs12722489-C	3e-09	21102463	IL2RA 	 Intron Variant	None	None
+259	rs1799990	Prion diseases	20	rs1799990-?	7e-07	22210626	PRNP 	 Missense Variant	None	None
+936	rs2104286	Multiple sclerosis	10	rs2104286-T	9e-08	19525953	IL2RA 	 Intron Variant	None	None
+1237	rs1799990	Creutzfeldt-Jakob disease	20	rs1799990-A	2e-21	19081515	PRNP 	 Missense Variant	None	None
+1336	rs4537545	C-reactive protein	1	rs4537545-T	2e-14	19567438	IL6R 	 Intron Variant	None	None
+1394	rs2104286	Multiple sclerosis	10	rs2104286-A	7e-06	19525955	IL2RA 	 Intron Variant	None	None
+2101	rs12722489	Multiple sclerosis	10	rs12722489-C	4e-08	22190364	IL2RA 	 Intron Variant	None	None
+2257	rs2069772	IgE grass sensitization	4	rs2069772-C	1e-06	22036096	IL2 	 Intron Variant	None	None
+5206	rs6265	Smoking behavior	11	rs6265-C	2e-08	20418890	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+5259	rs12722489	Multiple sclerosis	10	rs12722489-C	3e-08	17660530	IL2RA 	 Intron Variant	None	None
+5503	rs7713917	Major depressive disorder	5	rs7713917-G	1e-06	20673876	None	None	None	None
+5800	rs6265	Weight	11	rs6265-G	2e-07	19079260	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+5820	rs6265	Body mass index	11	rs6265-G	5e-10	19079260	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+6919	rs2283792	Multiple sclerosis	22	rs2283792-C	5e-09	21833088	MAPK1 	 Intron Variant	None	None
+7454	rs1518111	Behcet's disease	1	rs1518111-?	4e-18	20622878	IL19 	 Intron Variant	IL10 	 Intron Variant
+13563	rs1295685	Psoriasis vulgaris		rs1295685-G	3e-14	26626624	IL13 	 3 Prime UTR Variant	None	None
+15517	rs2104286	Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	10	rs2104286-?	4e-08	26974007	IL2RA 	 Intron Variant	None	None
+22668	rs1800871	Gut microbiota (functional units)	1	rs1800871-A	2e-06	27694959	IL10 	 2KB Upstream Variant	IL19 	 Intron Variant
+23457	rs11030104	Childhood body mass index	11	rs11030104-A	1e-06	26604143	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+34224	rs6265	C-reactive protein levels	11	rs6265-C	8e-19	31900758	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+36370	rs6265	General risk tolerance (MTAG)	11	rs6265-T	3e-10	30643258	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+36606	rs4680	Urinary metabolite modules (eigenmetabolites) in chronic kidney disease	22	rs4680-G	4.9999999999999996e-54	31959995	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+36811	rs2069772	Asthma (childhood onset)	4	rs2069772-?	8e-11	31669095	IL2 	 Intron Variant	None	None
+36826	rs6265	Coffee consumption	11	rs6265-?	3e-06	31959922	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+37153	rs1799964	Asthma (childhood onset)	6	rs1799964-?	1e-11	31669095	LOC100287329 	 2KB Upstream Variant	TNF 	 2KB Upstream Variant
+37272	rs9912468	Height	17	rs9912468-C	8e-07	29782485	PRKCA 	 Intron Variant	None	None
+37979	rs2069772	Allergic sensitization	4	rs2069772-C	1e-08	30013184	IL2 	 Intron Variant	None	None
+39394	rs11568818	Prostate cancer	11	rs11568818-T	2e-19	29892016	MMP7 	 2KB Upstream Variant	None	None
+43679	rs4680	Blood metabolite levels	22	rs4680-A	5e-178	24816252	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+43680	rs4680	Blood metabolite levels	22	rs4680-A	1e-13	24816252	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+45157	rs11030104	Body mass index	11	rs11030104-A	5e-19	25673413	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+45792	rs11030104	Body mass index	11	rs11030104-A	2e-20	24861553	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+47063	rs11030104	Body mass index	11	rs11030104-A	2e-15	25673413	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+47229	rs11030104	Body mass index	11	rs11030104-A	6e-28	25673413	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+48155	rs2104286	Rheumatoid arthritis	10	rs2104286-?	1e-06	24449572	IL2RA 	 Intron Variant	None	None
+48307	rs4680	Serum metabolite levels	22	rs4680-?	6e-11	23093944	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+48323	rs4680	Serum metabolite levels	22	rs4680-?	1e-48	23093944	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+50260	rs11568818	Prostate cancer	11	rs11568818-A	2e-11	23535732	MMP7 	 2KB Upstream Variant	None	None
+51106	rs11651708	Coronary artery calcification	17	rs11651708-A	3e-06	23870195	PRKCA 	 Intron Variant	None	None
+51917	rs10767664	Body mass index	11	rs10767664-A	4.9999999999999996e-26	20935630	BDNF 	 Intron Variant	None	None
+53790	rs1800871	Behcet's disease	1	rs1800871-T	1e-14	20622879	IL10 	 2KB Upstream Variant	IL19 	 Intron Variant
+54729	rs10097555	Obstructive sleep apnea	8	rs10097555-A	5e-06	25325441	NRG1 	 Intron Variant	None	None
+56424	rs4680	Urinary metabolite levels in chronic kidney disease	22	rs4680-G	2e-11	31959995	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+56425	rs4680	Urinary metabolite levels in chronic kidney disease	22	rs4680-G	2.0000000000000002e-28	31959995	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+56554	rs4680	Urinary metabolite levels in chronic kidney disease	22	rs4680-G	2e-59	31959995	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+59968	rs6265	Smoking status (ever vs never smokers)	11	rs6265-T	4e-18	30643258	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+67919	rs2069772	Eosinophil counts	4	rs2069772-C	1e-40	32888494	IL2 	 Intron Variant	None	None
+70375	rs1295685	Allergic disease (asthma, hay fever or eczema)		rs1295685-A	3e-19	31361310	IL13 	 3 Prime UTR Variant	None	None
+72865	rs12722489	Blood protein levels	10	rs12722489-?	3e-20	27532455	IL2RA 	 Intron Variant	None	None
+78129	rs2057149	Platelet distribution width	6	rs2057149-T	4e-53	27863252	DDO 	 Intron Variant	None	None
+80940	rs2057149	Mean platelet volume	6	rs2057149-T	8.000000000000001e-28	27863252	DDO 	 Intron Variant	None	None
+82404	rs6265	Hip circumference	11	rs6265-T	1e-09	25673412	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+82618	rs11030104	Body mass index	11	rs11030104-A	6.999999999999999e-30	25673413	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+82696	rs6265	Hip circumference	11	rs6265-T	1e-14	25673412	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+83470	rs6265	Hip circumference	11	rs6265-T	4e-07	25673412	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+84378	rs2069772	Celiac disease	4	rs2069772-?	1e-08	25920553	IL2 	 Intron Variant	None	None
+85734	rs9912468	QRS duration	17	rs9912468-?	2e-11	27659466	PRKCA 	 Intron Variant	None	None
+87715	rs9912468	QRS complex (12-leadsum)	17	rs9912468-?	5e-11	27659466	PRKCA 	 Intron Variant	None	None
+87750	rs9912468	QRS complex (Sokolow-Lyon)	17	rs9912468-?	3e-12	27659466	PRKCA 	 Intron Variant	None	None
+94677	rs11030104	BMI (adjusted for smoking behaviour)	11	rs11030104-A	5e-11	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+94678	rs11030104	BMI (adjusted for smoking behaviour)	11	rs11030104-A	5e-22	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+94679	rs11030104	BMI (adjusted for smoking behaviour)	11	rs11030104-A	1e-13	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+94934	rs11030104	Body mass index (joint analysis main effects and smoking interaction)	11	rs11030104-A	7.000000000000001e-24	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+94935	rs11030104	Body mass index (joint analysis main effects and smoking interaction)	11	rs11030104-A	3e-14	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+94936	rs11030104	Body mass index (joint analysis main effects and smoking interaction)	11	rs11030104-A	5e-11	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+96071	rs11030104	BMI in non-smokers	11	rs11030104-A	2e-07	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+96072	rs11030104	BMI in non-smokers	11	rs11030104-A	1e-15	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+96073	rs11030104	BMI in non-smokers	11	rs11030104-A	3e-10	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+97624	rs11030104	BMI in smokers	11	rs11030104-A	7e-06	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+97625	rs11030104	BMI in smokers	11	rs11030104-A	6e-11	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+97626	rs11030104	BMI in smokers	11	rs11030104-A	2e-06	28443625	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+99964	rs9912468	QRS duration	17	rs9912468-C	1e-10	27577874	PRKCA 	 Intron Variant	None	None
+99991	rs9912468	QRS duration	17	rs9912468-C	1e-08	27577874	PRKCA 	 Intron Variant	None	None
+109707	rs1295685	Psoriasis		rs1295685-G	3e-10	23143594	IL13 	 3 Prime UTR Variant	None	None
+110828	rs1295685	Asthma (childhood onset)		rs1295685-A	2e-09	29273806	IL13 	 3 Prime UTR Variant	None	None
+113667	rs6265	Body mass index	11	rs6265-T	2e-51	28892062	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+117129	rs4845617	Non-albumin protein levels	1	rs4845617-?	2e-11	29403010	IL6R 	 5 Prime UTR Variant	IL6R-AS1 	 Intron Variant
+119465	rs6265	Waist-hip ratio	11	rs6265-T	4e-17	30239722	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+123203	rs6265	Smoking initiation (ever regular vs never regular)	11	rs6265-T	2e-10	30679032	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+130228	rs9912468	QRS duration	17	rs9912468-G	1e-37	30012220	PRKCA 	 Intron Variant	None	None
+130280	rs9912468	QRS duration	17	rs9912468-G	8e-19	30012220	PRKCA 	 Intron Variant	None	None
+130437	rs11030104	Body mass index	11	rs11030104-A	7e-15	26961502	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+131170	rs2104286	Multiple sclerosis	10	rs2104286-A	2e-47	24076602	IL2RA 	 Intron Variant	None	None
+131190	rs2283792	Multiple sclerosis	22	rs2283792-C	6e-16	24076602	MAPK1 	 Intron Variant	None	None
+131550	rs6265	Smoking initiation	11	rs6265-T	8e-12	30617275	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+134033	rs6265	Body mass index	11	rs6265-T	7e-89	30239722	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+134318	rs6265	Body mass index	11	rs6265-T	7e-89	30239722	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+134711	rs6265	Body mass index	11	rs6265-T	7e-89	30239722	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+136337	rs6265	Body mass index	11	rs6265-?	8e-61	30595370	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+137683	rs6265	Predicted visceral adipose tissue	11	rs6265-T	2e-13	31501611	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+141869	rs1927914	Voxel-wise structural brain imaging measurements in Alzheimerâs disease	9	rs1927914-?	1e-06	30584014	TLR4 	 2KB Upstream Variant	None	None
+146337	rs11568818	Prostate cancer	11	rs11568818-T	3.9999999999999996e-26	33398198	MMP7 	 2KB Upstream Variant	None	None
+147026	rs4537545	C-reactive protein levels	1	rs4537545-?	3e-19	31217584	IL6R 	 Intron Variant	None	None
+147640	rs9912468	QRS duration	17	rs9912468-?	7e-07	31217584	PRKCA 	 Intron Variant	None	None
+147761	rs4680	Protein quantitative trait loci (liver)	22	rs4680-A	7e-19	32778093	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+151732	rs6265	Adult body size	11	rs6265-C	2e-44	32376654	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+154006	rs1800797	Asthma	7	rs1800797-G	4e-14	32296059	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+154748	rs324420	N-acyl ethanolamine levels	1	rs324420-?	2e-08	33437986	FAAH 	 Missense Variant	None	None
+154749	rs324420	N-acyl ethanolamine levels	1	rs324420-?	1e-08	33437986	FAAH 	 Missense Variant	None	None
+154750	rs324420	N-acyl ethanolamine levels	1	rs324420-?	5e-09	33437986	FAAH 	 Missense Variant	None	None
+154751	rs324420	N-acyl ethanolamine levels	1	rs324420-?	1e-10	33437986	FAAH 	 Missense Variant	None	None
+154752	rs324420	N-acyl ethanolamine levels	1	rs324420-?	1e-09	33437986	FAAH 	 Missense Variant	None	None
+157560	rs1800797	Asthma	7	rs1800797-G	1e-11	32296059	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+159696	rs926103	Autoimmune thyroid disease	1	rs926103-T	1e-11	32581359	NTRK1 	 2KB Upstream Variant	SH2D2A 	 Missense Variant
+160821	rs2069812	Asthma	5	rs2069812-G	6e-07	32514122	IL5 	 Intron Variant	None	None
+161468	rs324420	Serum metabolite levels	1	rs324420-C	1.9999999999999998e-97	33031748	FAAH 	 Missense Variant	None	None
+161469	rs324420	Serum metabolite levels	1	rs324420-C	2.9999999999999997e-83	33031748	FAAH 	 Missense Variant	None	None
+164676	rs4537545	Interleukin-6 levels	1	rs4537545-T	9.999999999999999e-123	33517400	IL6R 	 Intron Variant	None	None
+169338	rs6265	Caffeine consumption from coffee or tea	11	rs6265-C	3e-13	33287642	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+169988	rs324420	Serum metabolite levels	1	rs324420-C	2e-31	33031748	FAAH 	 Missense Variant	None	None
+170660	rs324420	Serum metabolite levels	1	rs324420-C	2e-31	33031748	FAAH 	 Missense Variant	None	None
+174299	rs6265	Body mass index	11	rs6265-?	1e-07	31217584	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+174312	rs10767664	Body mass index	11	rs10767664-?	7e-07	31217584	BDNF 	 Intron Variant	None	None
+174315	rs11030104	Body mass index	11	rs11030104-?	4e-07	31217584	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+177005	rs1799964	Lymphocyte counts	6	rs1799964-T	7e-15	32888493	LOC100287329 	 2KB Upstream Variant	TNF 	 2KB Upstream Variant
+178992	rs324420	Serum metabolite levels	1	rs324420-C	5e-56	33031748	FAAH 	 Missense Variant	None	None
+178993	rs324420	Serum metabolite levels	1	rs324420-C	1e-13	33031748	FAAH 	 Missense Variant	None	None
+180714	rs1800871	Mouth ulcers	1	rs1800871-G	5.999999999999999e-236	30837455	IL10 	 2KB Upstream Variant	IL19 	 Intron Variant
+181188	rs11030104	Hand grip strength	11	rs11030104-A	9e-10	29691431	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+186159	rs6265	Smoking initiation	11	rs6265-T	1e-14	33082346	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+189269	rs2057149	Mean platelet volume	6	rs2057149-C	1e-64	32888493	DDO 	 Intron Variant	None	None
+194302	rs6265	Smoking initiation (ever regular vs never regular)	11	rs6265-T	3e-19	30643251	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+196146	rs1800797	Systemic lupus erythematosus	7	rs1800797-?	8e-06	28714469	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+198246	rs1143627	High IL-1beta levels in gingival crevicular fluid	2	rs1143627-?	7e-19	30206230	IL1B 	 5 Prime UTR Variant	None	None
+198254	rs1143623	High IL-1beta levels in gingival crevicular fluid	2	rs1143623-?	5e-17	30206230	IL1B 	 2KB Upstream Variant	None	None
+204519	rs419598	High IL-1beta levels in gingival crevicular fluid	2	rs419598-?	7e-07	30206230	IL1RN 	 Synonymous Variant	None	None
+205014	rs2057149	Mean platelet volume	6	rs2057149-C	1e-64	32888493	DDO 	 Intron Variant	None	None
+206460	rs6265	Body mass index	11	rs6265-C	2.0000000000000002e-39	30108127	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+207206	rs1143634	High IL-1beta levels in gingival crevicular fluid	2	rs1143634-?	1e-11	30206230	IL1B 	 Synonymous Variant	None	None
+211133	rs6265	Body mass index	11	rs6265-?	3e-58	31669095	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+213677	rs2057149	Platelet count	6	rs2057149-T	6e-24	32888493	DDO 	 Intron Variant	None	None
+215083	rs11568818	Blood protein levels	11	rs11568818-?	4e-12	28915241	MMP7 	 2KB Upstream Variant	None	None
+215768	rs6265	Age of smoking initiation (MTAG)	11	rs6265-T	6e-16	30643251	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+215796	rs6265	Cigarettes smoked per day (MTAG)	11	rs6265-T	7e-07	30643251	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+216452	rs6265	Smoking initiation (ever regular vs never regular) (MTAG)	11	rs6265-T	9.000000000000001e-29	30643251	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+218892	rs6265	Body mass index	11	rs6265-C	3e-68	29273807	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+219620	rs2069763	Asthma (age of onset)	4	rs2069763-A	8e-06	31036433	IL2 	 Synonymous Variant	None	None
+219728	rs2069763	Asthma (childhood onset)	4	rs2069763-A	2e-14	31036433	IL2 	 Synonymous Variant	None	None
+223907	rs11568818	Prostate cancer	11	rs11568818-A	6e-06	33293427	MMP7 	 2KB Upstream Variant	None	None
+225186	rs1800797	Asthma	7	rs1800797-G	3e-10	31959851	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+225708	rs2057149	Mean platelet volume	6	rs2057149-T	8e-13	32888494	DDO 	 Intron Variant	None	None
+232340	rs1799990	Creutzfeldt-Jakob disease (sporadic)	20	rs1799990-A	1e-16	32949544	PRNP 	 Missense Variant	None	None
+233580	rs1800797	Asthma	7	rs1800797-G	2e-09	34103634	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+237500	rs1295685	Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)		rs1295685-G	2e-14	33385400	IL13 	 3 Prime UTR Variant	None	None
+237534	rs1295685	Psoriasis or type 2 diabetes (trans-disease meta-analysis)		rs1295685-A	5e-13	33385400	IL13 	 3 Prime UTR Variant	None	None
+242348	rs2057149	Platelet count	6	rs2057149-T	7e-17	32888494	DDO 	 Intron Variant	None	None
+245844	rs1042522	Apolipoprotein B levels	17	rs1042522-C	9e-11	33462484	TP53 	 Missense Variant	None	None
+246579	rs1801406	Apolipoprotein B levels	13	rs1801406-G	3e-09	33462484	BRCA2 	 Missense Variant	None	None
+253116	rs1042522	Glycated hemoglobin levels	17	rs1042522-C	3e-18	33462484	TP53 	 Missense Variant	None	None
+259033	rs1042522	Non-albumin protein levels	17	rs1042522-C	4e-10	33462484	TP53 	 Missense Variant	None	None
+260859	rs1042522	Low density lipoprotein cholesterol levels	17	rs1042522-C	1e-10	33462484	TP53 	 Missense Variant	None	None
+263734	rs1042522	Sex hormone-binding globulin levels	17	rs1042522-C	0.0	33462484	TP53 	 Missense Variant	None	None
+263753	rs1042522	Testosterone levels	17	rs1042522-C	1e-117	33462484	TP53 	 Missense Variant	None	None
+265118	rs1042522	Serum total protein level	17	rs1042522-C	3e-11	33462484	TP53 	 Missense Variant	None	None
+265468	rs1042522	Triglyceride levels	17	rs1042522-C	4e-10	33462484	TP53 	 Missense Variant	None	None
+267368	rs6265	Smoking status	11	rs6265-?	2e-15	30595370	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+268543	rs926103	Hypothyroidism	1	rs926103-?	9e-08	30595370	NTRK1 	 2KB Upstream Variant	SH2D2A 	 Missense Variant
+269714	rs1295685	Eczema		rs1295685-?	6e-13	30595370	IL13 	 3 Prime UTR Variant	None	None

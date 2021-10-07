@@ -1,0 +1,32 @@
+	Unnamed: 0	SNPS	DISEASE/TRAIT	CHR_ID	NCBI_gene1	NCBI_info1	NCBI_gene2	NCBI_info2
+1	25	rs12722489	Crohn's disease	10.0	IL2RA 	 Intron Variant	None	None
+7	2101	rs12722489	Multiple sclerosis	10.0	IL2RA 	 Intron Variant	None	None
+8	2257	rs2069772	IgE grass sensitization	4.0	IL2 	 Intron Variant	None	None
+10	5259	rs12722489	Multiple sclerosis	10.0	IL2RA 	 Intron Variant	None	None
+14	6919	rs2283792	Multiple sclerosis	22.0	MAPK1 	 Intron Variant	None	None
+22	36606	rs4680	Urinary metabolite modules (eigenmetabolites) in chronic kidney disease	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+23	36811	rs2069772	Asthma (childhood onset)	4.0	IL2 	 Intron Variant	None	None
+27	37979	rs2069772	Allergic sensitization	4.0	IL2 	 Intron Variant	None	None
+29	43679	rs4680	Blood metabolite levels	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+30	43680	rs4680	Blood metabolite levels	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+36	48307	rs4680	Serum metabolite levels	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+37	48323	rs4680	Serum metabolite levels	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+40	51917	rs10767664	Body mass index	11.0	BDNF 	 Intron Variant	None	None
+43	56424	rs4680	Urinary metabolite levels in chronic kidney disease	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+44	56425	rs4680	Urinary metabolite levels in chronic kidney disease	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+45	56554	rs4680	Urinary metabolite levels in chronic kidney disease	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+47	67919	rs2069772	Eosinophil counts	4.0	IL2 	 Intron Variant	None	None
+49	72865	rs12722489	Blood protein levels	10.0	IL2RA 	 Intron Variant	None	None
+56	84378	rs2069772	Celiac disease	4.0	IL2 	 Intron Variant	None	None
+84	131190	rs2283792	Multiple sclerosis	22.0	MAPK1 	 Intron Variant	None	None
+91	141869	rs1927914	Voxel-wise structural brain imaging measurements in Alzheimerâs disease	9.0	TLR4 	 2KB Upstream Variant	None	None
+95	147761	rs4680	Protein quantitative trait loci (liver)	22.0	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+97	154006	rs1800797	Asthma	7.0	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+103	157560	rs1800797	Asthma	7.0	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+105	160821	rs2069812	Asthma	5.0	IL5 	 Intron Variant	None	None
+113	174312	rs10767664	Body mass index	11.0	BDNF 	 Intron Variant	None	None
+123	196146	rs1800797	Systemic lupus erythematosus	7.0	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+137	219620	rs2069763	Asthma (age of onset)	4.0	IL2 	 Synonymous Variant	None	None
+138	219728	rs2069763	Asthma (childhood onset)	4.0	IL2 	 Synonymous Variant	None	None
+140	225186	rs1800797	Asthma	7.0	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+143	233580	rs1800797	Asthma	7.0	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant

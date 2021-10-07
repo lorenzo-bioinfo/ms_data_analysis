@@ -1,0 +1,1049 @@
+fever generation
+induction of positive chemotaxis
+negative regulation of interleukin-8 production
+positive regulation of natural killer cell cytokine production
+cellular response to interleukin-18
+negative regulation of T-helper cell differentiation
+vitamin D metabolic process
+monocyte aggregation
+regulation of axon extension
+positive regulation of interleukin-6 production
+immunoglobulin mediated immune response
+positive regulation of type 2 immune response
+positive regulation of interleukin-8 biosynthetic process
+positive regulation of leukotriene production involved in inflammatory response
+positive regulation of T-helper 2 cell cytokine production
+regulation of T-helper cell differentiation
+glial cell migration
+B cell chemotaxis
+planar cell polarity pathway involved in axon guidance
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway
+negative regulation of cytokine secretion involved in immune response
+hepatic immune response
+positive regulation of synapse structural plasticity
+T-helper 1 cell lineage commitment
+regulation of tolerance induction
+cardiac muscle tissue regeneration
+interferon-gamma production
+axon extension involved in axon guidance
+regulation of leukocyte chemotaxis
+antigen processing and presentation of exogenous peptide antigen via MHC class II
+negative regulation of platelet-derived growth factor receptor-beta signaling pathway
+positive regulation of dendritic cell differentiation
+positive regulation of neuron apoptotic process
+immune response
+dendritic cell proliferation
+negative regulation of vitamin D biosynthetic process
+granulocyte chemotaxis
+positive regulation of satellite cell activation involved in skeletal muscle regeneration
+negative regulation of neuron differentiation
+negative regulation of receptor localization to synapse
+negative regulation of synaptic plasticity
+interleukin-2 biosynthetic process
+positive regulation of response to cytokine stimulus
+sympathetic nervous system development
+negative regulation of cytokine production involved in inflammatory response
+negative regulation of natural killer cell chemotaxis
+glial cell differentiation
+establishment of glial blood-brain barrier
+positive regulation of fibroblast growth factor receptor signaling pathway
+T-helper 17 cell differentiation
+dendrite extension
+epidermal cell differentiation
+positive regulation of interleukin-1 beta secretion
+facial nerve structural organization
+cerebral cortex neuron differentiation
+cytokine production involved in inflammatory response
+NADPH regeneration
+positive regulation of macrophage activation
+cellular response to fibroblast growth factor stimulus
+positive regulation of inflammatory response to antigenic stimulus
+positive regulation of leukocyte migration
+negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation
+positive regulation of acute inflammatory response to antigenic stimulus
+regulation of granulocyte macrophage colony-stimulating factor biosynthetic process
+regulation of interleukin-6 production
+central nervous system neuron differentiation
+long-term synaptic potentiation
+regulation of epidermal growth factor-activated receptor activity
+glial cell development
+natural killer cell activation involved in immune response
+positive regulation of macrophage colony-stimulating factor production
+negative regulation of acute inflammatory response to non-antigenic stimulus
+leukotriene production involved in inflammatory response
+positive regulation of platelet-derived growth factor production
+positive regulation of peripheral T cell tolerance induction
+leukocyte migration
+inflammatory cell apoptotic process
+branching morphogenesis of a nerve
+regulation of tumor necrosis factor-mediated signaling pathway
+spinal cord motor neuron cell fate specification
+immune response-activating cell surface receptor signaling pathway
+neuromuscular synaptic transmission
+axonogenesis
+negative regulation of neuron apoptotic process
+regulation of neuron death
+interleukin-18 production
+negative regulation of dendrite development
+negative regulation of macrophage chemotaxis
+positive regulation of B cell chemotaxis
+negative regulation of cytokine secretion
+negative regulation of oxidative stress-induced neuron death
+motor neuron axon guidance
+MHC class II biosynthetic process
+positive regulation of T-helper 2 cell differentiation
+leukocyte chemotaxis
+positive regulation of optic nerve formation
+basophil chemotaxis
+cytokine biosynthetic process
+negative regulation of NF-kappaB import into nucleus
+interleukin-3 production
+negative regulation of interleukin-2 biosynthetic process
+negative regulation of interleukin-12 production
+positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway
+positive regulation of neuron differentiation
+positive regulation of interleukin-13 secretion
+negative regulation of immune response
+VEGF-activated neuropilin signaling pathway involved in axon guidance
+axon ensheathment
+negative regulation of interleukin-5 secretion
+negative regulation of dendritic spine maintenance
+cytokine secretion
+regulation of astrocyte chemotaxis
+response to interleukin-4
+regulation of cytokine production involved in inflammatory response
+excitatory synapse assembly
+platelet-derived growth factor receptor-alpha signaling pathway
+negative regulation of CD8-positive
+negative regulation of inflammatory response
+positive regulation of synaptic vesicle endocytosis
+B cell proliferation involved in immune response
+activation of innate immune response
+positive regulation of leukocyte mediated cytotoxicity
+innate immune response-activating signal transduction
+negative regulation of chronic inflammatory response to non-antigenic stimulus
+positive regulation of tumor necrosis factor production
+lymphocyte activation
+negative regulation of chronic inflammatory response to antigenic stimulus
+negative regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+interferon-gamma-mediated signaling pathway
+chemorepulsion of dopaminergic neuron axon
+positive regulation of excitatory synapse assembly
+positive regulation of immune response
+regulation of type I interferon-mediated signaling pathway
+interleukin-1 beta secretion
+vitamin D catabolic process
+optic nerve morphogenesis
+positive regulation of dendrite development
+cranial nerve development
+trigeminal nerve development
+negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway
+trochlear nerve development
+dendritic spine organization
+negative regulation of tumor necrosis factor biosynthetic process
+interleukin-4 secretion
+positive regulation of CD4-positive
+glial cell apoptotic process
+leukocyte adhesive activation
+regulation of interleukin-1 beta production
+negative regulation of monocyte extravasation
+negative regulation of neuron projection regeneration
+CD8-positive
+negative regulation of smooth muscle cell chemotaxis
+negative regulation of tumor necrosis factor secretion
+positive regulation of tolerance induction to self antigen
+negative regulation of mast cell activation involved in immune response
+positive regulation of chemotaxis
+negative regulation of synaptic transmission
+cellular response to granulocyte macrophage colony-stimulating factor stimulus
+negative regulation of T-helper 2 cell cytokine production
+positive regulation of chronic inflammatory response to antigenic stimulus
+myeloid dendritic cell differentiation
+negative regulation of mast cell cytokine production
+regulation of neuron projection development
+positive regulation of T-helper 1 cell differentiation
+positive regulation of myeloid dendritic cell chemotaxis
+negative regulation of acute inflammatory response
+lymphocyte migration into lymphoid organs
+dendritic cell chemotaxis
+negative regulation of T-helper 17 cell differentiation
+neuron projection morphogenesis
+cellular response to tumor necrosis factor
+central nervous system development
+regulation of cytokine biosynthetic process
+antigen processing and presentation of peptide antigen via MHC class I
+regulation of axon extension involved in axon guidance
+oligodendrocyte apoptotic process
+response to axon injury
+prostaglandin metabolic process
+negative regulation of immunological synapse formation
+positive regulation of neuron projection regeneration
+positive regulation of dendrite morphogenesis
+positive regulation of neuron projection development
+forebrain radial glial cell differentiation
+T-helper 1 type immune response
+negative regulation of platelet-derived growth factor receptor signaling pathway
+interleukin-6 biosynthetic process
+axon guidance
+leukocyte tethering or rolling
+positive regulation of immune system process
+smooth muscle cell chemotaxis
+regulation of macrophage chemotaxis
+canonical Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation
+positive regulation of interleukin-5 secretion
+regulation of vitamin D receptor signaling pathway
+negative regulation of plasmacytoid dendritic cell cytokine production
+lymphocyte chemotaxis across high endothelial venule
+positive regulation of dendritic cell antigen processing and presentation
+positive regulation of glial cell proliferation
+dendritic cell cytokine production
+negative regulation of macrophage apoptotic process
+negative regulation of oligodendrocyte differentiation
+tumor necrosis factor secretion
+interleukin-4 production
+interleukin-6 production
+negative regulation of chronic inflammatory response
+negative regulation of interferon-gamma biosynthetic process
+neural crest cell migration involved in autonomic nervous system development
+negative regulation of myeloid dendritic cell activation
+glossopharyngeal nerve morphogenesis
+negative regulation of type I interferon-mediated signaling pathway
+synaptic growth at neuromuscular junction
+epidermal growth factor receptor signaling pathway
+negative regulation of chemokine (C-C motif) ligand 5 production
+negative regulation of leukocyte migration
+regulation of endothelial cell chemotaxis to fibroblast growth factor
+interleukin-8 production
+microglial cell activation involved in immune response
+positive regulation of synaptic transmission
+positive regulation of skeletal muscle tissue regeneration
+neuron cell-cell adhesion
+negative regulation of anterograde synaptic vesicle transport
+response to cytokine
+macrophage differentiation
+positive regulation of interleukin-15 production
+lymphocyte homeostasis
+positive regulation of interleukin-12 production
+negative regulation of T-helper 1 cell activation
+regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+positive regulation of neuron migration
+cellular response to epidermal growth factor stimulus
+central nervous system myelin formation
+response to nerve growth factor
+positive regulation of leukocyte adhesion to arterial endothelial cell
+positive regulation of epidermal growth factor-activated receptor activity
+negative regulation of macrophage differentiation
+cellular response to UV-B
+negative regulation of dopamine uptake involved in synaptic transmission
+positive regulation of dendritic spine maintenance
+negative regulation of interleukin-23 production
+plasmacytoid dendritic cell activation
+cellular response to interferon-gamma
+regulation of interleukin-1 beta secretion
+midbrain dopaminergic neuron differentiation
+negative regulation of chemotaxis
+negative regulation of NF-kappaB transcription factor activity
+negative regulation of hydrogen peroxide-induced neuron death
+negative regulation of neutrophil chemotaxis
+regulation of synaptic activity
+regulation of MHC class I biosynthetic process
+interleukin-18 secretion
+myeloid dendritic cell chemotaxis
+glial cell proliferation
+negative regulation of epidermal cell differentiation
+cytokine metabolic process
+regulation of neuronal action potential
+regulation of T cell mediated immune response to tumor cell
+positive regulation of T cell chemotaxis
+fibroblast growth factor receptor signaling pathway
+positive regulation of chemokine (C-C motif) ligand 2 secretion
+tumor necrosis factor-mediated signaling pathway
+negative regulation of CD40 signaling pathway
+positive regulation of synaptic vesicle recycling
+positive regulation of inflammatory response
+type I interferon signaling pathway
+positive regulation of vitamin D 24-hydroxylase activity
+chronic inflammatory response to antigenic stimulus
+positive regulation of T-helper cell differentiation
+positive regulation of immunological synapse formation
+negative regulation of fibroblast growth factor receptor signaling pathway
+regulation of immune response
+neurogenesis
+macrophage activation involved in immune response
+lymphocyte chemotaxis
+positive regulation of granulocyte macrophage colony-stimulating factor biosynthetic process
+regulation of macrophage migration inhibitory factor signaling pathway
+optic nerve development
+chemorepulsion of branchiomotor axon
+positive regulation of macrophage tolerance induction
+negative regulation of interleukin-2 secretion
+antigen processing and presentation of peptide antigen via MHC class II
+neuron development
+positive regulation of chemokine (C-X-C motif) ligand 1 production
+negative regulation of cytokine production
+positive regulation of type I interferon production
+CD4-positive
+regulation of synapse organization
+positive regulation of type I interferon-mediated signaling pathway
+positive regulation of immunoglobulin mediated immune response
+negative regulation of lymphocyte migration
+negative regulation of axon extension involved in axon guidance
+negative regulation of neuron death
+positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation
+regulation of dopamine uptake involved in synaptic transmission
+positive regulation of leukocyte tethering or rolling
+positive regulation of myeloid leukocyte cytokine production involved in immune response
+regulation of macrophage activation
+neuron projection regeneration
+regulation of gliogenesis
+regulation of T-helper 1 cell differentiation
+negative regulation of myelination
+response to interleukin-13
+dendritic cell homeostasis
+response to epidermal growth factor
+regulation of leukocyte migration
+negative regulation of cytokine-mediated signaling pathway
+B cell cytokine production
+positive regulation of interleukin-1 alpha production
+enteric nervous system development
+regulation of dendrite morphogenesis
+activation of phospholipase D activity
+axon target recognition
+positive regulation of myeloid leukocyte differentiation
+regulation of timing of subpallium neuron differentiation
+axon midline choice point recognition
+leukocyte chemotaxis involved in inflammatory response
+myoblast migration involved in skeletal muscle regeneration
+negative regulation of interleukin-1 alpha secretion
+regulation of lymphocyte differentiation
+positive regulation of interferon-beta secretion
+negative regulation of synaptic vesicle clustering
+adaptive immune response
+response to interleukin-9
+regulation of monocyte chemotaxis
+positive regulation of innate immune response
+optic nerve structural organization
+glial cell fate commitment
+antigen processing and presentation of exogenous protein antigen via MHC class Ib
+liver regeneration
+fibroblast growth factor receptor signaling pathway involved in orbitofrontal cortex development
+chemokine biosynthetic process
+cellular response to interleukin-8
+myeloid dendritic cell cytokine production
+myelin maintenance
+negative regulation of interleukin-10 secretion
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway
+regulation of glial cell differentiation
+inhibitory synapse assembly
+regulation of interferon-gamma-mediated signaling pathway
+positive regulation of interleukin-5 biosynthetic process
+retinal ganglion cell axon guidance
+immunological synapse formation
+negative regulation of connective tissue replacement involved in inflammatory response wound healing
+negative regulation of epidermal growth factor-activated receptor activity
+endothelial cell chemotaxis
+positive regulation of axon extension
+regulation of interleukin-10 secretion
+leukocyte migration involved in inflammatory response
+positive regulation of interleukin-10 production
+regulation of interleukin-1 production
+negative regulation of granulocyte macrophage colony-stimulating factor production
+negative regulation of tumor necrosis factor superfamily cytokine production
+regulation of monocyte differentiation
+positive regulation of prostaglandin secretion involved in immune response
+platelet-derived growth factor receptor-beta signaling pathway
+positive regulation of interleukin-2 biosynthetic process
+positive regulation of interleukin-23 production
+glial cell-derived neurotrophic factor receptor signaling pathway
+regulation of neurogenesis
+immune system development
+regulation of dendritic cell dendrite assembly
+positive regulation of interleukin-6 biosynthetic process
+gliogenesis
+response to prostaglandin E
+response to tumor necrosis factor
+radial glial cell differentiation
+follicular dendritic cell differentiation
+positive regulation of oligodendrocyte differentiation
+chemokine (C-C motif) ligand 19 signaling pathway
+lymphocyte differentiation
+neuron projection guidance
+mast cell cytokine production
+synaptic vesicle targeting
+inflammatory response to antigenic stimulus
+positive regulation of synaptic vesicle clustering
+cellular response to prostaglandin E stimulus
+negative regulation of interleukin-18 production
+prostaglandin transport
+positive regulation of interleukin-6 secretion
+T-helper 2 cell activation
+positive regulation of cytokine secretion involved in immune response
+humoral immune response mediated by circulating immunoglobulin
+negative regulation of interleukin-8 secretion
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib
+immune response-inhibiting signal transduction
+positive regulation of positive chemotaxis
+macrophage activation
+positive regulation of smooth muscle cell chemotaxis
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+positive regulation of fever generation by positive regulation of prostaglandin secretion
+cell morphogenesis involved in neuron differentiation
+cellular response to macrophage colony-stimulating factor stimulus
+negative regulation of interleukin-1 production
+regulation of myeloid dendritic cell activation
+positive regulation of fibroblast growth factor production
+positive regulation of interleukin-5 production
+forebrain neuron differentiation
+gonadotrophin-releasing hormone neuronal migration to the hypothalamus
+mature conventional dendritic cell differentiation
+negative regulation of dendritic spine morphogenesis
+tolerance induction to lipopolysaccharide
+interferon-gamma secretion
+immune response to tumor cell
+chemokine production
+immunoglobulin production involved in immunoglobulin mediated immune response
+positive regulation of interleukin-4 production
+positive regulation of cytokine-mediated signaling pathway
+positive regulation of lymphocyte proliferation
+regulation of chemokine production
+T-helper cell differentiation
+positive regulation of interleukin-10 secretion
+negative regulation of C-C chemokine binding
+negative regulation of myeloid leukocyte differentiation
+sensory neuron axon guidance
+B cell activation involved in immune response
+positive regulation of macrophage fusion
+neuron projection development
+T-helper 2 cell differentiation
+response to interleukin-2
+regulation of cytokine secretion
+evasion or tolerance of host defenses by virus
+positive regulation of CD40 signaling pathway
+olfactory nerve development
+regulation of negative chemotaxis
+regulation of axonogenesis
+T-helper 1 cell activation
+CD4-positive or CD8-positive
+axon regeneration
+Bergmann glial cell differentiation
+dendritic spine development
+positive regulation of macrophage cytokine production
+inflammatory response
+chemokine receptor transport out of membrane raft
+cellular response to interleukin-3
+neural crest cell migration involved in sympathetic nervous system development
+positive regulation of glial cell-derived neurotrophic factor secretion
+positive regulation of leukocyte chemotaxis
+tissue regeneration
+protein localization to juxtaparanode region of axon
+negative regulation of fibroblast migration
+T-helper 17 cell lineage commitment
+interleukin-5 production
+positive regulation of T cell mediated immune response to tumor cell
+peripheral nervous system myelin maintenance
+regulation of interleukin-6 biosynthetic process
+positive regulation of immune response to tumor cell
+antigen processing and presentation of endogenous peptide antigen via MHC class I
+positive regulation of interleukin-1 alpha biosynthetic process
+synaptic vesicle recycling
+positive regulation of interleukin-1 beta biosynthetic process
+positive regulation of interleukin-12 biosynthetic process
+commissural neuron axon guidance
+regulation of dendritic spine development
+regulation of short-term neuronal synaptic plasticity
+regulation of dendritic spine morphogenesis
+regulation of epidermal growth factor receptor signaling pathway
+establishment of synaptic specificity at neuromuscular junction
+endothelial cell chemotaxis to fibroblast growth factor
+negative regulation of prostaglandin biosynthetic process
+myotube differentiation involved in skeletal muscle regeneration
+immune system process
+epidermal growth factor-activated receptor transactivation by G-protein coupled receptor signaling pathway
+positive regulation of transmission of nerve impulse
+neuron maturation
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+eosinophil chemotaxis
+synaptic vesicle exocytosis
+activation of MAPK activity involved in innate immune response
+release of cytoplasmic sequestered NF-kappaB
+regulation of neuron migration
+interleukin-10 production
+negative regulation of tolerance induction
+cellular response to interferon-beta
+positive regulation of lymphocyte apoptotic process
+negative regulation of positive chemotaxis
+positive regulation of long-term neuronal synaptic plasticity
+positive regulation of interferon-beta biosynthetic process
+chemokine metabolic process
+positive regulation of vitamin D receptor signaling pathway
+forebrain neuron development
+neutrophil activation involved in immune response
+leukocyte cell-cell adhesion
+negative regulation of neuron projection development
+myoblast differentiation involved in skeletal muscle regeneration
+positive regulation of axonogenesis
+negative regulation of interferon-beta production
+positive regulation of granulocyte chemotaxis
+negative regulation of vitamin D receptor signaling pathway
+positive regulation of interleukin-13 biosynthetic process
+regulation of mast cell chemotaxis
+granulocyte macrophage colony-stimulating factor biosynthetic process
+positive regulation of protein kinase D signaling
+positive regulation of dendrite extension
+positive regulation of chemokine biosynthetic process
+fibroblast migration
+modulation of synaptic transmission
+axon development
+interleukin-1 beta production
+positive regulation of MHC class II biosynthetic process
+transmission of nerve impulse
+positive regulation of vitamin D biosynthetic process
+negative regulation of interleukin-6 secretion
+peripheral T cell tolerance induction
+positive regulation of T cell cytokine production
+macrophage apoptotic process
+positive regulation of epidermal growth factor receptor signaling pathway
+regulation of transmission of nerve impulse
+positive regulation of monocyte differentiation
+positive regulation of midbrain dopaminergic neuron differentiation
+positive regulation of endothelial cell chemotaxis
+axon extension involved in regeneration
+vagus nerve morphogenesis
+positive regulation of interleukin-13 production
+neuron remodeling
+positive regulation of macrophage colony-stimulating factor signaling pathway
+organ regeneration
+positive regulation of cytokine secretion
+positive regulation of chemokine secretion
+T-helper 2 cell cytokine production
+regulation of fibroblast growth factor receptor signaling pathway
+nerve development
+negative regulation of leukocyte cell-cell adhesion
+antigen processing and presentation of exogenous peptide antigen via MHC class I
+interleukin-13 biosynthetic process
+CD40 signaling pathway
+cytokine secretion involved in immune response
+regulation of fibroblast migration
+regulation of tumor necrosis factor biosynthetic process
+neuron migration
+monocyte differentiation
+prostaglandin secretion
+synaptic vesicle fusion to presynaptic active zone membrane
+positive regulation of axon regeneration
+peptide antigen assembly with MHC class II protein complex
+peripheral nervous system development
+macrophage chemotaxis
+central nervous system projection neuron axonogenesis
+monocyte chemotaxis
+chemokine (C-C motif) ligand 2 secretion
+semaphorin-plexin signaling pathway involved in neuron projection guidance
+negative regulation of glial cell differentiation
+positive regulation of granulocyte macrophage colony-stimulating factor production
+axon extension
+negative regulation of T-helper 1 type immune response
+negative regulation of T-helper 17 cell lineage commitment
+positive regulation of interleukin-1 beta production
+tumor necrosis factor production
+negative regulation of dendritic cell apoptotic process
+positive regulation of mast cell cytokine production
+spinal cord oligodendrocyte cell fate specification
+positive regulation of interleukin-8 production
+central tolerance induction to self antigen
+positive regulation of leukocyte adhesion to vascular endothelial cell
+positive regulation of B cell tolerance induction
+positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+positive regulation of macrophage chemotaxis
+cellular response to interleukin-13
+negative regulation of lymphocyte activation
+olfactory bulb axon guidance
+cytokine production
+neuron projection extension
+positive regulation of gliogenesis
+regulation of myelination
+negative regulation of interleukin-1 beta secretion
+astrocyte-dopaminergic neuron signaling
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway
+regulation of leukocyte mediated cytotoxicity
+positive regulation of myelination
+cellular response to vitamin D
+chemical synaptic transmission
+type I interferon biosynthetic process
+macrophage cytokine production
+regulation of lymphocyte activation
+regulation of interleukin-2 biosynthetic process
+positive regulation of acute inflammatory response
+regulation of immune system process
+negative regulation of cytokine biosynthetic process
+positive regulation of interleukin-2 production
+planar cell polarity pathway involved in midbrain dopaminergic neuron differentiation
+negative regulation of motor neuron apoptotic process
+anterior/posterior axon guidance
+nervous system development
+positive regulation of humoral immune response mediated by circulating immunoglobulin
+positive regulation of antigen processing and presentation of peptide antigen via MHC class II
+mature natural killer cell chemotaxis
+negative regulation of neurogenesis
+cellular response to cytokine stimulus
+neuron fate commitment
+negative regulation of type I interferon production
+regulation of dendritic cell differentiation
+immune response-regulating cell surface receptor signaling pathway
+negative regulation of interleukin-17 production
+active induction of host immune response by virus
+noradrenergic neuron differentiation
+leukocyte aggregation
+long term synaptic depression
+regulation of neuron apoptotic process
+positive regulation of NF-kappaB transcription factor activity
+noradrenergic neuron fate commitment
+interleukin-6 secretion
+negative regulation of interleukin-6 biosynthetic process
+negative regulation of interferon-beta biosynthetic process
+regulation of chemokine (C-X-C motif) ligand 1 production
+VEGF-activated neuropilin signaling pathway
+cellular response to chemokine
+cellular response to type I interferon
+synapse organization
+fibroblast growth factor receptor signaling pathway involved in mammary gland specification
+negative regulation of granulocyte colony-stimulating factor production
+synapse disassembly
+dopaminergic neuron differentiation
+nitric oxide production involved in inflammatory response
+fibroblast activation
+positive regulation of forebrain neuron differentiation
+positive regulation of interleukin-2 secretion
+positive regulation of neutrophil chemotaxis
+cellular response to interleukin-4
+fibroblast proliferation
+regulation of T cell tolerance induction
+regulation of NF-kappaB import into nucleus
+regulation of neuronal signal transduction
+regulation of axon regeneration
+positive regulation of neuron maturation
+neuron fate specification
+epidermal growth factor catabolic process
+negative regulation of glial cell apoptotic process
+nerve growth factor processing
+positive regulation of prostaglandin secretion
+semaphorin-plexin signaling pathway involved in axon guidance
+macrophage colony-stimulating factor signaling pathway
+positive regulation of platelet-derived growth factor receptor signaling pathway
+response to interleukin-18
+mucosal immune response
+negative regulation of interleukin-6 production
+sympathetic neuron projection extension
+negative regulation of platelet-derived growth factor receptor-alpha signaling pathway
+neutrophil chemotaxis
+evasion or tolerance by virus of host immune response
+positive regulation of dopamine uptake involved in synaptic transmission
+cytokine production involved in immune response
+positive regulation of fibroblast apoptotic process
+chemotaxis to arachidonic acid
+positive regulation of dendritic cell chemotaxis
+positive regulation of T-helper 17 type immune response
+radial glia guided migration of Purkinje cell
+positive regulation of C-C chemokine receptor CCR7 signaling pathway
+positive regulation of dendritic cell cytokine production
+tolerance induction
+neuronal signal transduction
+negative regulation of CD4-positive
+positive regulation of interleukin-17 production
+central nervous system myelin maintenance
+regulation of transcription from RNA polymerase II promoter involved in somatic motor neuron fate commitment
+positive regulation of cytokine activity
+GABAergic neuron differentiation
+negative regulation of dopaminergic neuron differentiation
+rhythmic synaptic transmission
+regulation of inflammatory response
+neuron apoptotic process
+regulation of neuronal synaptic plasticity
+wound healing involved in inflammatory response
+regulation of synapse structure or activity
+negative regulation of macrophage derived foam cell differentiation
+regulation of type 2 immune response
+regulation of dopaminergic neuron differentiation
+negative regulation of nerve growth factor production
+self proteolysis
+negative regulation of collateral sprouting of intact axon in response to injury
+regulation of synapse assembly
+neuron fate determination
+positive regulation of synaptic plasticity
+regulation of interleukin-5 production
+positive regulation of interferon-gamma secretion
+positive regulation of respiratory burst involved in inflammatory response
+central nervous system morphogenesis
+interleukin-33-mediated signaling pathway
+monocyte activation
+negative regulation of dendritic cell cytokine production
+positive regulation of cytokine production involved in inflammatory response
+positive regulation of natural killer cell chemotaxis
+negative regulation of epidermal growth factor receptor signaling pathway
+central nervous system myelination
+peripheral nervous system neuron axonogenesis
+negative regulation of adaptive immune response
+lymphocyte migration
+macrophage derived foam cell differentiation
+polysaccharide assembly with MHC class II protein complex
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration
+regulation of tumor necrosis factor production
+branchiomotor neuron axon guidance
+positive regulation of immune complex clearance by monocytes and macrophages
+regulation of interferon-beta production
+positive regulation of type III interferon production
+negative regulation of interleukin-2 production
+positive regulation of monocyte chemotactic protein-1 production
+lymphocyte migration into lymph node
+positive regulation of antigen processing and presentation of peptide antigen via MHC class I
+natural killer cell chemotaxis
+natural killer cell tolerance induction
+positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway
+negative regulation of T cell cytokine production
+nerve growth factor production
+regulation of timing of neuron differentiation
+negative regulation of dendrite morphogenesis
+positive regulation of tumor necrosis factor-mediated signaling pathway
+regulation of long-term synaptic potentiation
+positive regulation of interleukin-1-mediated signaling pathway
+dendritic cell migration
+positive regulation of fever generation
+negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+positive regulation of fibroblast migration
+response to interleukin-15
+interferon-gamma biosynthetic process
+negative regulation of leukocyte apoptotic process
+cellular response to interleukin-1
+positive regulation of oligodendrocyte progenitor proliferation
+dendrite morphogenesis
+negative regulation of oligodendrocyte apoptotic process
+interleukin-8 biosynthetic process
+regulation of dendritic cell cytokine production
+regulation of type III interferon production
+positive regulation of macrophage derived foam cell differentiation
+synaptic transmission
+negative regulation of interleukin-1 secretion
+response to interferon-gamma
+regulation of T cell chemotaxis
+regulation of cytokine-mediated signaling pathway
+cellular response to prostaglandin stimulus
+response to interferon-beta
+negative regulation of neuron migration
+leukocyte homeostasis
+positive regulation of interferon-beta production
+response to fibroblast growth factor
+negative regulation of immune system process
+interleukin-12 secretion
+T cell chemotaxis
+positive regulation of T-helper 2 cell activation
+lymphocyte aggregation
+positive regulation of interleukin-1 secretion
+negative regulation of interleukin-1-mediated signaling pathway
+positive regulation of tumor necrosis factor (ligand) superfamily member 11 production
+leukocyte proliferation
+positive regulation of T-helper 17 cell differentiation
+myeloid dendritic cell activation
+synapse assembly
+positive regulation of T-helper 1 cell cytokine production
+positive regulation of neuron death
+interleukin-8 secretion
+negative regulation of chemokine biosynthetic process
+negative regulation of macrophage inflammatory protein 1 alpha production
+negative regulation of humoral immune response mediated by circulating immunoglobulin
+positive regulation of interleukin-12 secretion
+regulation of CD4-positive
+positive regulation of dendritic cell dendrite assembly
+synaptic vesicle transport
+regulation of interleukin-8 biosynthetic process
+negative regulation of interleukin-5 production
+response to vitamin D
+positive regulation of dendritic spine development
+central nervous system neuron development
+regulation of interferon-gamma production
+regulation of lymphocyte apoptotic process
+negative regulation of monocyte chemotaxis
+negative regulation of interferon-beta secretion
+axonal fasciculation
+dendrite development
+chronic inflammatory response
+regulation of interleukin-8 secretion
+positive regulation of chronic inflammatory response to non-antigenic stimulus
+interleukin-12 production
+negative regulation of acute inflammatory response to antigenic stimulus
+noradrenergic neuron development
+negative regulation of T-helper 1 cell differentiation
+peripheral nervous system myelin formation
+fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+positive regulation of chemokine (C-C motif) ligand 5 production
+regulation of natural killer cell differentiation involved in immune response
+negative regulation of chemokine secretion
+tolerance induction to self antigen
+negative regulation of type 2 immune response
+response to interleukin-6
+pyramidal neuron development
+positive regulation of interferon-gamma biosynthetic process
+vestibulocochlear nerve structural organization
+interleukin-8-mediated signaling pathway
+regulation of CD40 signaling pathway
+axonogenesis involved in innervation
+negative regulation of macrophage colony-stimulating factor signaling pathway
+negative regulation of leukocyte tethering or rolling
+regulation of fibroblast proliferation
+spinal cord motor neuron differentiation
+prostaglandin biosynthetic process
+positive regulation of protein localization to synapse
+granulocyte colony-stimulating factor signaling pathway
+commitment of neuronal cell to specific neuron type in forebrain
+regulation of dendrite development
+positive regulation of interleukin-3 biosynthetic process
+positive regulation of macrophage differentiation
+neuron-neuron synaptic transmission
+positive regulation of tumor necrosis factor secretion
+positive regulation of fibroblast proliferation
+negative regulation of dendritic cell antigen processing and presentation
+negative regulation of innate immune response
+negative regulation of tumor necrosis factor production
+cellular response to interleukin-6
+response to UV-B
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor
+oligodendrocyte cell fate specification
+positive regulation of humoral immune response
+dendritic spine maintenance
+positive regulation of MHC class I biosynthetic process
+fibroblast growth factor receptor signaling pathway involved in positive regulation of cell proliferation in bone marrow
+neuronal stem cell population maintenance
+oligodendrocyte development
+chemotaxis
+positive regulation of axon extension involved in axon guidance
+negative regulation of tumor necrosis factor-mediated signaling pathway
+B cell chemotaxis across high endothelial venule
+negative regulation of fibroblast growth factor production
+negative regulation of glial cell proliferation
+synaptic vesicle endocytosis
+fibroblast growth factor receptor signaling pathway involved in hemopoiesis
+regulation of neuron differentiation
+regulation of tolerance induction dependent upon immune response
+regulation of forebrain neuron differentiation
+positive chemotaxis
+negative regulation of MHC class II biosynthetic process
+positive regulation of myeloid dendritic cell activation
+helper T cell enhancement of adaptive immune response
+positive regulation of interferon-gamma production
+positive regulation of dendritic spine morphogenesis
+regulation of long-term neuronal synaptic plasticity
+peptide antigen assembly with MHC class I protein complex
+positive regulation of interleukin-1 alpha secretion
+positive regulation of tumor necrosis factor biosynthetic process
+cellular response to prostaglandin D stimulus
+positive regulation of neuronal action potential
+negative regulation of chemokine production
+leukocyte degranulation
+negative regulation of interleukin-3 production
+positive regulation of chronic inflammatory response
+negative regulation of interleukin-13 production
+positive regulation of tolerance induction
+myeloid dendritic cell activation involved in immune response
+regulation of cytokine production
+myelination
+macrophage migration inhibitory factor signaling pathway
+positive regulation of monocyte extravasation
+peripheral nervous system axon regeneration
+negative regulation of dendritic spine development
+positive regulation of macrophage apoptotic process
+central nervous system neuron axonogenesis
+positive regulation of dopaminergic neuron differentiation
+protein localization to synapse
+oculomotor nerve development
+negative regulation of synapse assembly
+interleukin-2 production
+negative regulation of inflammatory response to antigenic stimulus
+regulation of CD8-positive
+regulation of adaptive immune response
+regulation of humoral immune response
+interferon-beta production
+connective tissue replacement involved in inflammatory response wound healing
+negative regulation of interleukin-12 secretion
+response to interleukin-12
+regulation of interleukin-18 biosynthetic process
+regulation of macrophage derived foam cell differentiation
+positive regulation of long-term synaptic potentiation
+negative regulation of transmission of nerve impulse
+positive regulation of interleukin-18 production
+negative regulation of lymphocyte proliferation
+negative regulation of leukocyte chemotaxis
+innate immune response in mucosa
+positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway
+negative regulation of interleukin-10 production
+interleukin-1 secretion
+interleukin-1 beta biosynthetic process
+negative regulation of long term synaptic depression
+negative regulation of endothelial cell chemotaxis
+sympathetic neuron projection guidance
+response to interleukin-1
+striatal medium spiny neuron differentiation
+negative regulation of interferon-gamma secretion
+negative regulation of axon extension
+T cell tolerance induction
+regulation of neuron maturation
+negative regulation of macrophage cytokine production
+T-helper 1 cell differentiation
+activation of plasma proteins involved in acute inflammatory response
+fibroblast apoptotic process
+regulation of type I interferon production
+myelin assembly
+negative regulation of interferon-gamma production
+dendritic cell dendrite assembly
+regulation of synaptic vesicle exocytosis
+cell chemotaxis
+anterograde axonal transport
+myelination in peripheral nervous system
+subpallium neuron fate commitment
+regulation of interleukin-4 production
+negative regulation of interleukin-8 biosynthetic process
+negative regulation of macrophage activation
+regulation of synapse structural plasticity
+epidermal cell fate specification
+vitamin D receptor signaling pathway
+negative regulation of axon regeneration
+chemokine (C-C motif) ligand 11 production
+positive regulation of granulocyte colony-stimulating factor production
+positive regulation of interleukin-8 secretion
+neuron differentiation
+negative regulation of monocyte differentiation
+regulation of chemotaxis
+regulation of dendritic cell chemotaxis
+positive regulation of CD8-positive
+negative regulation of interleukin-13 secretion
+positive regulation of synaptic growth at neuromuscular junction
+negative regulation of interleukin-12 biosynthetic process
+T-helper 1 cell cytokine production
+acute inflammatory response
+negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+regulation of interleukin-23 production
+dendritic cell differentiation
+aminergic neurotransmitter loading into synaptic vesicle
+chemokine (C-C motif) ligand 21 signaling pathway
+glial cell fate determination
+trigeminal nerve structural organization
+type 2 immune response
+regulation of synaptic transmission
+negative regulation of forebrain neuron differentiation
+positive regulation of mast cell chemotaxis
+dendritic spine morphogenesis
+positive regulation of interleukin-4 biosynthetic process
+negative regulation of dendritic cell dendrite assembly
+positive regulation of neurogenesis
+platelet-derived growth factor receptor signaling pathway
+fibroblast growth factor receptor apoptotic signaling pathway
+negative regulation of interleukin-1 beta production
+negative regulation of interferon-gamma-mediated signaling pathway
+dopamine uptake involved in synaptic transmission
+acute inflammatory response to antigenic stimulus
+interleukin-10 secretion
+negative regulation of cytokine activity
+negative regulation of T-helper 2 cell differentiation
+negative regulation of neuron maturation
+positive regulation of astrocyte chemotaxis
+synaptic vesicle budding
+central nervous system vasculogenesis
+positive regulation of retinal ganglion cell axon guidance
+positive regulation of dendritic cell apoptotic process
+regulation of synaptic plasticity
+retrograde axonal transport
+negative regulation of chemokine (C-X-C motif) ligand 2 production
+formation of radial glial scaffolds
+chemokine secretion
+nerve growth factor signaling pathway
+positive regulation of chemokine (C-X-C motif) ligand 2 production
+chemoattraction of serotonergic neuron axon
+positive regulation of synapse maturation
+positive regulation of monocyte chemotaxis
+oculomotor nerve formation
+positive regulation of synapse assembly
+T cell activation involved in immune response
+humoral immune response
+response to prostaglandin F
+positive regulation of interleukin-1 production
+forebrain neuron fate commitment
+visceral motor neuron differentiation
+T cell differentiation involved in immune response
+negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
+cytoplasmic sequestering of NF-kappaB
+peripheral nervous system neuron development
+response to type I interferon
+positive regulation of prostaglandin biosynthetic process
+regulation of synaptic vesicle recycling
+regulation of interleukin-12 production
+regulation of chemokine (C-X-C motif) ligand 2 production
+production of molecular mediator involved in inflammatory response
+positive regulation of NF-kappaB import into nucleus
+lymphocyte proliferation
+skeletal muscle satellite cell maintenance involved in skeletal muscle regeneration
+regulation of B cell cytokine production
+regulation of axon diameter
+positive regulation of eosinophil chemotaxis
+regulation of fever generation
+positive regulation of chemokine production
+positive regulation of T cell tolerance induction
+negative regulation of respiratory burst involved in inflammatory response
+mature B cell differentiation involved in immune response
+negative regulation of monocyte chemotactic protein-1 production
+innate immune response
+vestibulocochlear nerve formation
+regulation of transcription from RNA polymerase II promoter involved in spinal cord motor neuron fate specification
+interleukin-1-mediated signaling pathway
+establishment of protein localization to juxtaparanode region of axon
+leukocyte activation
+positive regulation of adaptive immune response
+cytokine-mediated signaling pathway
+cellular response to platelet-derived growth factor stimulus
+skeletal muscle tissue regeneration
+negative regulation of leukocyte activation
+positive regulation of T-helper 1 type immune response
+regulation of glial cell proliferation
+response to type III interferon
+negative chemotaxis
+negative regulation of fibroblast apoptotic process
+regulation of innate immune response
+T cell proliferation involved in immune response
+regulation of chronic inflammatory response
+positive regulation of T-helper 17 cell lineage commitment
+Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation
+negative regulation of dendritic cell differentiation
+mast cell chemotaxis
+cellular response to nerve growth factor stimulus
+positive regulation of gamma-delta T cell activation involved in immune response
+synapse maturation
+oligodendrocyte differentiation
+neuron death
+bone regeneration
+immune response-inhibiting cell surface receptor signaling pathway
+negative regulation of long-term synaptic potentiation
+axonal transport of mitochondrion
+negative regulation of leukocyte proliferation
+leukocyte migration involved in immune response
+positive regulation of cytokine production
+fibroblast growth factor receptor signaling pathway involved in negative regulation of apoptotic process in bone marrow
+type I interferon production
+positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+interleukin-13 production
+positive regulation of interleukin-10 biosynthetic process
+negative regulation of response to cytokine stimulus
+T cell cytokine production
+positive regulation of monocyte aggregation
+neuronal action potential
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor
+negative regulation of interleukin-4 production
+T-helper 17 cell chemotaxis
+regulation of retinal ganglion cell axon guidance
+leukocyte activation involved in immune response
+negative regulation of axonogenesis
+regulation of lymphocyte migration
+regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+dorsal/ventral axon guidance
+motor neuron apoptotic process
+negative regulation of leukocyte adhesion to arterial endothelial cell
+positive regulation of epidermal cell differentiation
+spinal cord association neuron differentiation
+determination of left/right asymmetry in nervous system
+T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+regulation of oligodendrocyte progenitor proliferation
+negative regulation of fibroblast proliferation

@@ -1,0 +1,22 @@
+rs4680 - Urinary metabolite modules (eigenmetabolites) in chronic kidney disease|Blood metabolite levels|Blood metabolite levels|Serum metabolite levels|Serum metabolite levels|Urinary metabolite levels in chronic kidney disease|Urinary metabolite levels in chronic kidney disease|Urinary metabolite levels in chronic kidney disease|Protein quantitative trait loci (liver)
+rs7598440 - Not in GWAS
+rs2069772 - IgE grass sensitization|Asthma (childhood onset)|Allergic sensitization|Eosinophil counts|Celiac disease
+rs2227306 - Not in GWAS
+rs10767664 - Body mass index|Body mass index
+rs11568817 - Not in GWAS
+rs743409 - Not in GWAS
+rs1799880 - Not in GWAS
+rs2227284 - Not in GWAS
+rs11913721 - Not in GWAS
+rs2069763 - Asthma (age of onset)|Asthma (childhood onset)
+rs7131056 - Not in GWAS
+rs2283792 - Multiple sclerosis|Multiple sclerosis
+rs2069812 - Asthma
+rs1800797 - Asthma|Asthma|Systemic lupus erythematosus|Asthma|Asthma
+rs12722489 - Crohn's disease|Multiple sclerosis|Multiple sclerosis|Blood protein levels
+rs7301328 - Not in GWAS
+rs1927914 - Voxel-wise structural brain imaging measurements in Alzheimerâs disease
+rs1554973 - Not in GWAS
+rs4251961 - Not in GWAS
+rs3757351 - Not in GWAS
+rs1474347 - Not in GWAS

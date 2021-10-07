@@ -1,0 +1,114 @@
+# a_ct_eu (13)
+rs1295685 - Psoriasis vulgaris|Allergic disease (asthma, hay fever or eczema)|Psoriasis|Asthma (childhood onset)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)|Eczema
+rs466448 - Not in GWAS
+rs11651708 - Coronary artery calcification
+rs475007 - Not in GWAS
+rs10932201 - Not in GWAS
+rs4649124 - Not in GWAS
+rs638405 - Not in GWAS
+rs1805247 - Not in GWAS
+rs16845626 - Not in GWAS
+rs222747 - Not in GWAS
+rs1554606 - Not in GWAS
+rs12377632 - Not in GWAS
+rs9912468 - Height|QRS duration|QRS complex (12-leadsum)|QRS complex (Sokolow-Lyon)|QRS duration|QRS duration|QRS duration|QRS duration|QRS duration
+# a_rr_eu (37)
+rs1295685 - Psoriasis vulgaris|Allergic disease (asthma, hay fever or eczema)|Psoriasis|Asthma (childhood onset)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)|Eczema
+rs1554606 - Not in GWAS
+rs7598440 - Not in GWAS
+rs4680 - Urinary metabolite modules (eigenmetabolites) in chronic kidney disease|Blood metabolite levels|Blood metabolite levels|Serum metabolite levels|Serum metabolite levels|Urinary metabolite levels in chronic kidney disease|Urinary metabolite levels in chronic kidney disease|Urinary metabolite levels in chronic kidney disease|Protein quantitative trait loci (liver)
+rs16845626 - Not in GWAS
+rs2069772 - IgE grass sensitization|Asthma (childhood onset)|Allergic sensitization|Eosinophil counts|Celiac disease
+rs2227306 - Not in GWAS
+rs475007 - Not in GWAS
+rs10767664 - Body mass index|Body mass index
+rs11568817 - Not in GWAS
+rs10932201 - Not in GWAS
+rs3757351 - Not in GWAS
+rs743409 - Not in GWAS
+rs1805247 - Not in GWAS
+rs9340 - Not in GWAS
+rs222747 - Not in GWAS
+rs9912468 - Height|QRS duration|QRS complex (12-leadsum)|QRS complex (Sokolow-Lyon)|QRS duration|QRS duration|QRS duration|QRS duration|QRS duration
+rs1799880 - Not in GWAS
+rs11651708 - Coronary artery calcification
+rs2227284 - Not in GWAS
+rs11913721 - Not in GWAS
+rs2069763 - Asthma (age of onset)|Asthma (childhood onset)
+rs7131056 - Not in GWAS
+rs2283792 - Multiple sclerosis|Multiple sclerosis
+rs2069812 - Asthma
+rs1927911 - Not in GWAS
+rs1800797 - Asthma|Asthma|Systemic lupus erythematosus|Asthma|Asthma
+rs12722489 - Crohn's disease|Multiple sclerosis|Multiple sclerosis|Blood protein levels
+rs4845617 - Non-albumin protein levels
+rs7301328 - Not in GWAS
+rs2227307 - Not in GWAS
+rs1927914 - Voxel-wise structural brain imaging measurements in Alzheimerâs disease
+rs1554973 - Not in GWAS
+rs4251961 - Not in GWAS
+rs2295633 - Not in GWAS
+rs1474347 - Not in GWAS
+rs12377632 - Not in GWAS
+# a_ct_rr (4)
+rs1295685 - Psoriasis vulgaris|Allergic disease (asthma, hay fever or eczema)|Psoriasis|Asthma (childhood onset)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)|Eczema
+rs2295633 - Not in GWAS
+rs466448 - Not in GWAS
+rs16845626 - Not in GWAS
+# ct_eu (14)
+rs1295685 - Psoriasis vulgaris|Allergic disease (asthma, hay fever or eczema)|Psoriasis|Asthma (childhood onset)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)|Eczema
+rs466448 - Not in GWAS
+rs11651708 - Coronary artery calcification
+rs475007 - Not in GWAS
+rs1518111 - Behcet's disease
+rs10932201 - Not in GWAS
+rs4649124 - Not in GWAS
+rs1805247 - Not in GWAS
+rs16845626 - Not in GWAS
+rs222747 - Not in GWAS
+rs2295633 - Not in GWAS
+rs1137070 - Not in GWAS
+rs12377632 - Not in GWAS
+rs9912468 - Height|QRS duration|QRS complex (12-leadsum)|QRS complex (Sokolow-Lyon)|QRS duration|QRS duration|QRS duration|QRS duration|QRS duration
+# rr_eu (34)
+rs1295685 - Psoriasis vulgaris|Allergic disease (asthma, hay fever or eczema)|Psoriasis|Asthma (childhood onset)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)|Eczema
+rs4680 - Urinary metabolite modules (eigenmetabolites) in chronic kidney disease|Blood metabolite levels|Blood metabolite levels|Serum metabolite levels|Serum metabolite levels|Urinary metabolite levels in chronic kidney disease|Urinary metabolite levels in chronic kidney disease|Urinary metabolite levels in chronic kidney disease|Protein quantitative trait loci (liver)
+rs7598440 - Not in GWAS
+rs2295633 - Not in GWAS
+rs16845626 - Not in GWAS
+rs2072743 - Not in GWAS
+rs2069772 - IgE grass sensitization|Asthma (childhood onset)|Allergic sensitization|Eosinophil counts|Celiac disease
+rs2227306 - Not in GWAS
+rs10767664 - Body mass index|Body mass index
+rs11568817 - Not in GWAS
+rs10932201 - Not in GWAS
+rs3757351 - Not in GWAS
+rs743409 - Not in GWAS
+rs222747 - Not in GWAS
+rs9912468 - Height|QRS duration|QRS complex (12-leadsum)|QRS complex (Sokolow-Lyon)|QRS duration|QRS duration|QRS duration|QRS duration|QRS duration
+rs1799880 - Not in GWAS
+rs11651708 - Coronary artery calcification
+rs2227284 - Not in GWAS
+rs11913721 - Not in GWAS
+rs2069763 - Asthma (age of onset)|Asthma (childhood onset)
+rs7131056 - Not in GWAS
+rs2283792 - Multiple sclerosis|Multiple sclerosis
+rs2069812 - Asthma
+rs1137070 - Not in GWAS
+rs1800797 - Asthma|Asthma|Systemic lupus erythematosus|Asthma|Asthma
+rs12722489 - Crohn's disease|Multiple sclerosis|Multiple sclerosis|Blood protein levels
+rs7301328 - Not in GWAS
+rs1818879 - Not in GWAS
+rs1927914 - Voxel-wise structural brain imaging measurements in Alzheimerâs disease
+rs1554973 - Not in GWAS
+rs4251961 - Not in GWAS
+rs1554606 - Not in GWAS
+rs1474347 - Not in GWAS
+rs12377632 - Not in GWAS
+# ct_rr (6)
+rs1295685 - Psoriasis vulgaris|Allergic disease (asthma, hay fever or eczema)|Psoriasis|Asthma (childhood onset)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)|Psoriasis or type 2 diabetes (trans-disease meta-analysis)|Eczema
+rs2069772 - IgE grass sensitization|Asthma (childhood onset)|Allergic sensitization|Eosinophil counts|Celiac disease
+rs466448 - Not in GWAS
+rs1518111 - Behcet's disease
+rs7301328 - Not in GWAS
+rs2295633 - Not in GWAS

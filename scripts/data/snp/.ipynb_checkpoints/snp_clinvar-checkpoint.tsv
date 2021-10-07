@@ -1,0 +1,123 @@
+snp_id	reported	clin_significance	gene_1	gene_consequence1	gene_2	gene_consequence2
+rs222747	Not Reported in ClinVar	Not reported	TRPV1 	 Missense Variant	None	None
+rs324420	Reported in ClinVar	<td>Benign</td>	FAAH 	 Missense Variant	None	None
+rs6265	Reported in ClinVar	<td>Benign</td>	BDNF-AS 	 Non Coding Transcript Variant	BDNF 	 Missense Variant
+rs4680	Reported in ClinVar	<td>Drug-Response</td>	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+rs4880213	Not Reported in ClinVar	Not reported	None	None	COMT 	 Missense Variant
+rs1805247	Reported in ClinVar	<td>Benign</td>	GRIN2B 	 Synonymous Variant	None	None
+rs3757351	Not Reported in ClinVar	Not reported	LOC105377936 	 2KB Upstream Variant	DDO 	 Intron Variant
+rs6277	Reported in ClinVar	<td>Benign-Likely-Benign</td>	DRD2 	 Synonymous Variant	None	None
+rs1042522	Reported in ClinVar	<td>Benign</td>	TP53 	 Missense Variant	None	None
+rs907094	Not Reported in ClinVar	Not reported	PPP1R1B 	 Intron Variant	None	None
+rs1130233	Reported in ClinVar	<td>Benign</td>	AKT1 	 Synonymous Variant	None	None
+rs6330	Reported in ClinVar	<td>Benign</td>	NGF-AS1 	 Intron Variant	NGF 	 Missense Variant
+rs4869676	Not Reported in ClinVar	Not reported	SLC1A3 	 Intron Variant	None	None
+rs16940	Reported in ClinVar	<td>Benign</td>	BRCA1 	 Synonymous Variant	None	None
+rs926103	Not Reported in ClinVar	Not reported	NTRK1 	 2KB Upstream Variant	SH2D2A 	 Missense Variant
+rs244072	Not Reported in ClinVar	Not reported	ADA 	 Intron Variant	None	None
+rs2057149	Not Reported in ClinVar	Not reported	DDO 	 Intron Variant	None	None
+rs11102930	Reported in ClinVar	<td>Benign</td>	NGF 	 2KB Upstream Variant	NGF-AS1 	 Intron Variant
+rs7301328	Reported in ClinVar	<td>Benign</td>	GRIN2B 	 Synonymous Variant	None	None
+rs4649124	Not Reported in ClinVar	Not reported	CNR2 	 Missense Variant	None	None
+rs2494732	Not Reported in ClinVar	Not reported	AKT1 	 Intron Variant	None	None
+rs6275	Reported in ClinVar	<td>Benign</td>	DRD2 	 Synonymous Variant	None	None
+rs7131056	Not Reported in ClinVar	Not reported	DRD2 	 Intron Variant	None	None
+rs1063045	Reported in ClinVar	<td>Benign</td>	NBN 	 Synonymous Variant	None	None
+rs1801406	Reported in ClinVar	<td>Benign</td>	BRCA2 	 Missense Variant	None	None
+rs1049524	Reported in ClinVar	<td>Benign</td>	SLC1A3 	 3 Prime UTR Variant	None	None
+rs4648318	Not Reported in ClinVar	Not reported	DRD2 	 Intron Variant	None	None
+rs1049522	Reported in ClinVar	<td>Benign</td>	SLC1A3 	 3 Prime UTR Variant	None	None
+rs6293	Reported in ClinVar	<td>Benign</td>	LOC105376328 	 2KB Upstream Variant	GRIN1 	 Synonymous Variant
+rs806368	Not Reported in ClinVar	Not reported	CNR1 	 3 Prime UTR Variant	None	None
+rs2279744	None	Not reported	None	None	None	None
+rs2239622	Not Reported in ClinVar	Not reported	NGF-AS1 	 Intron Variant	NGF 	 Intron Variant
+rs1130214	Not Reported in ClinVar	Not reported	AKT1 	 Intron Variant	None	None
+rs806377	Not Reported in ClinVar	Not reported	CNR1 	 Intron Variant	None	None
+rs1799880	Not Reported in ClinVar	Not reported	ADA 	 Intron Variant	None	None
+rs2637988	Not Reported in ClinVar	Not reported	IL1RN 	 Intron Variant	None	None
+rs707284	Not Reported in ClinVar	Not reported	ERBB4 	 Intron Variant	None	None
+rs10932201	Not Reported in ClinVar	Not reported	CREB1 	 Intron Variant	None	None
+rs6311	Reported in ClinVar	<td>Likely-Benign</td>	HTR2A 	 Intron Variant	None	None
+rs2283792	Not Reported in ClinVar	Not reported	MAPK1 	 Intron Variant	None	None
+rs2227307	Not Reported in ClinVar	Not reported	CXCL8 	 Intron Variant	None	None
+rs11575812	Not Reported in ClinVar	Not reported	None	None	None	None
+rs165599	Reported in ClinVar	<td>Drug-Response</td>	COMT 	 3 Prime UTR Variant	ARVCF 	 Intron Variant
+rs2857261	Not Reported in ClinVar	Not reported	IL15 	 Intron Variant	None	None
+rs2072743	Not Reported in ClinVar	Not reported	MAOA 	 Intron Variant	None	None
+rs1005651	Not Reported in ClinVar	Not reported	PRKCA 	 Intron Variant	None	None
+rs514921	Not Reported in ClinVar	Not reported	WTAPP1 	 Intron Variant	MMP1 	 2KB Upstream Variant
+rs222741	Not Reported in ClinVar	Not reported	TRPV1 	 Intron Variant	None	None
+rs11568818	Not Reported in ClinVar	Not reported	MMP7 	 2KB Upstream Variant	None	None
+rs11030104	Not Reported in ClinVar	Not reported	BDNF-AS 	 Intron Variant	BDNF 	 Intron Variant
+rs2254137	Not Reported in ClinVar	Not reported	CREB1 	 Intron Variant	None	None
+rs1137070	Reported in ClinVar	<td>Benign</td>	MAOA 	 Synonymous Variant	None	None
+rs6684439	Not Reported in ClinVar	Not reported	IL6R 	 Intron Variant	None	None
+rs6994992	Not Reported in ClinVar	Not reported	NRG1 	 2KB Upstream Variant	None	None
+rs2104286	Not Reported in ClinVar	Not reported	IL2RA 	 Intron Variant	None	None
+rs315952	Reported in ClinVar	<td>Benign</td>	IL1RN 	 Missense Variant	None	None
+rs1519551	Not Reported in ClinVar	Not reported	IL15 	 Intron Variant	None	None
+rs1474347	Not Reported in ClinVar	Not reported	IL6-AS1 	 2KB Upstream Variant	IL6 	 Intron Variant
+rs2069772	Not Reported in ClinVar	Not reported	IL2 	 Intron Variant	None	None
+rs638405	Not Reported in ClinVar	Not reported	BACE1 	 Synonymous Variant	None	None
+rs1143623	Reported in ClinVar	<td>Association</td>	IL1B 	 2KB Upstream Variant	None	None
+rs4845617	Not Reported in ClinVar	Not reported	IL6R 	 5 Prime UTR Variant	IL6R-AS1 	 Intron Variant
+rs2243828	Not Reported in ClinVar	Not reported	MPO 	 2KB Upstream Variant	None	None
+rs7747909	Not Reported in ClinVar	Not reported	IL17A 	 3 Prime UTR Variant	None	None
+rs7713917	Not Reported in ClinVar	Not reported	None	None	None	None
+rs6296	Not Reported in ClinVar	Not reported	LOC105377864 	 Intron Variant	HTR1B 	 Synonymous Variant
+rs1295685	Not Reported in ClinVar	Not reported	IL13 	 3 Prime UTR Variant	None	None
+rs1800896	Not Reported in ClinVar	Not reported	IL10 	 2KB Upstream Variant	IL19 	 Intron Variant
+rs1143634	Reported in ClinVar	<td>Association</td>	IL1B 	 Synonymous Variant	None	None
+rs2227306	Not Reported in ClinVar	Not reported	CXCL8 	 Intron Variant	None	None
+rs1518111	Not Reported in ClinVar	Not reported	IL19 	 Intron Variant	IL10 	 Intron Variant
+rs5854	Not Reported in ClinVar	Not reported	WTAPP1 	 Intron Variant	MMP1 	 3 Prime UTR Variant
+rs10097555	Not Reported in ClinVar	Not reported	NRG1 	 Intron Variant	None	None
+rs3918249	Not Reported in ClinVar	Not reported	MMP9 	 Intron Variant	None	None
+rs1554973	Not Reported in ClinVar	Not reported	TLR4 	 3 Prime UTR Variant	None	None
+rs7598440	Not Reported in ClinVar	Not reported	ERBB4 	 Intron Variant	None	None
+rs2295633	Not Reported in ClinVar	Not reported	FAAH 	 Intron Variant	None	None
+rs4537545	Not Reported in ClinVar	Not reported	IL6R 	 Intron Variant	None	None
+rs11568817	Not Reported in ClinVar	Not reported	LOC105377864 	 Intron Variant	HTR1B 	 2KB Upstream Variant
+rs2069763	Not Reported in ClinVar	Not reported	IL2 	 Synonymous Variant	None	None
+rs1800797	Reported in ClinVar	<td>Benign</td>	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+rs214484	Not Reported in ClinVar	Not reported	APP 	 Intron Variant	None	None
+rs1554606	Not Reported in ClinVar	Not reported	IL6-AS1 	 2KB Upstream Variant	IL6 	 Intron Variant
+rs1143627	Reported in ClinVar	<td>Risk-Factor</td>	IL1B 	 5 Prime UTR Variant	None	None
+rs1927911	Not Reported in ClinVar	Not reported	TLR4 	 Intron Variant	None	None
+rs2069812	Not Reported in ClinVar	Not reported	IL5 	 Intron Variant	None	None
+rs1799990	Reported in ClinVar	<td>Benign</td>	PRNP 	 Missense Variant	None	None
+rs466448	Not Reported in ClinVar	Not reported	APP 	 2KB Upstream Variant	None	None
+rs743409	Not Reported in ClinVar	Not reported	MAPK1 	 Intron Variant	None	None
+rs475007	Not Reported in ClinVar	Not reported	WTAPP1 	 Intron Variant	MMP1 	 2KB Upstream Variant
+rs2275913	Not Reported in ClinVar	Not reported	IL17A 	 2KB Upstream Variant	None	None
+rs1818879	Not Reported in ClinVar	Not reported	None	None	None	None
+rs4251961	Not Reported in ClinVar	Not reported	IL1RN 	 Intron Variant	None	None
+rs4790904	Not Reported in ClinVar	Not reported	PRKCA 	 Intron Variant	None	None
+rs3924999	Not Reported in ClinVar	Not reported	NRG1 	 Missense Variant	None	None
+rs20544	Reported in ClinVar	<td>Benign</td>	MMP9 	 3 Prime UTR Variant	SLC12A5-AS1 	 Intron Variant
+rs419598	Reported in ClinVar	<td>Benign</td>	IL1RN 	 Synonymous Variant	None	None
+rs9912468	Not Reported in ClinVar	Not reported	PRKCA 	 Intron Variant	None	None
+rs2551640	Not Reported in ClinVar	Not reported	CREB1 	 Intron Variant	None	None
+rs4711998	Not Reported in ClinVar	Not reported	IL17A 	 2KB Upstream Variant	None	None
+rs2254514	Not Reported in ClinVar	Not reported	IL15 	 Non Coding Transcript Variant	None	None
+rs1799964	Not Reported in ClinVar	Not reported	LOC100287329 	 2KB Upstream Variant	TNF 	 2KB Upstream Variant
+rs11913721	Not Reported in ClinVar	Not reported	MAPK1 	 Intron Variant	None	None
+rs10502001	Not Reported in ClinVar	Not reported	MMP7 	 Missense Variant	None	None
+rs4790522	Not Reported in ClinVar	Not reported	TRPV1 	 3 Prime UTR Variant	None	None
+rs12377632	Not Reported in ClinVar	Not reported	TLR4 	 Intron Variant	None	None
+rs1144393	Not Reported in ClinVar	Not reported	WTAPP1 	 Intron Variant	MMP1 	 2KB Upstream Variant
+rs2227284	Not Reported in ClinVar	Not reported	IL4 	 Intron Variant	None	None
+rs839523	Not Reported in ClinVar	Not reported	ERBB4 	 Intron Variant	None	None
+rs17576	Reported in ClinVar	<td>Benign</td>	MMP9 	 Missense Variant	None	None
+rs10093107	Not Reported in ClinVar	Not reported	NRG1 	 Intron Variant	None	None
+rs11651708	Not Reported in ClinVar	Not reported	PRKCA 	 Intron Variant	None	None
+rs16845626	Not Reported in ClinVar	Not reported	DCK 	 Intron Variant	None	None
+rs11079657	Not Reported in ClinVar	Not reported	PRKCA 	 Intron Variant	None	None
+rs10767664	Not Reported in ClinVar	Not reported	BDNF 	 Intron Variant	None	None
+rs1800871	None	Not reported	None	None	None	None
+rs1927914	Not Reported in ClinVar	Not reported	TLR4 	 2KB Upstream Variant	None	None
+rs11030101	Not Reported in ClinVar	Not reported	BDNF 	 Intron Variant	BDNF-AS 	 Non Coding Transcript Variant
+rs224547	Not Reported in ClinVar	Not reported	TRPV1 	 Intron Variant	None	None
+rs9340	Not Reported in ClinVar	Not reported	MAPK1 	 3 Prime UTR Variant	None	None
+rs12722489	Not Reported in ClinVar	Not reported	IL2RA 	 Intron Variant	None	None
+rs806380	None	Not reported	None	None	None	None

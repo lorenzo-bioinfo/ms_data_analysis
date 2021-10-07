@@ -1,0 +1,23 @@
+	snp_id	reported	clin_significance	gene_1	gene_consequence1	gene_2	gene_consequence2
+3	rs4680	Reported in ClinVar	<td>Drug-Response</td>	MIR4761 	 2KB Upstream Variant	COMT 	 Missense Variant
+6	rs3757351	Not Reported in ClinVar	Not reported	LOC105377936 	 2KB Upstream Variant	DDO 	 Intron Variant
+18	rs7301328	Reported in ClinVar	<td>Benign</td>	GRIN2B 	 Synonymous Variant	None	None
+22	rs7131056	Not Reported in ClinVar	Not reported	DRD2 	 Intron Variant	None	None
+34	rs1799880	Not Reported in ClinVar	Not reported	ADA 	 Intron Variant	None	None
+39	rs2283792	Not Reported in ClinVar	Not reported	MAPK1 	 Intron Variant	None	None
+57	rs1474347	Not Reported in ClinVar	Not reported	IL6-AS1 	 2KB Upstream Variant	IL6 	 Intron Variant
+58	rs2069772	Not Reported in ClinVar	Not reported	IL2 	 Intron Variant	None	None
+69	rs2227306	None	Not reported	None	None	None	None
+74	rs1554973	Not Reported in ClinVar	Not reported	TLR4 	 3 Prime UTR Variant	None	None
+75	rs7598440	Not Reported in ClinVar	Not reported	ERBB4 	 Intron Variant	None	None
+78	rs11568817	Not Reported in ClinVar	Not reported	LOC105377864 	 Intron Variant	HTR1B 	 2KB Upstream Variant
+79	rs2069763	Not Reported in ClinVar	Not reported	IL2 	 Synonymous Variant	None	None
+80	rs1800797	Reported in ClinVar	<td>Benign</td>	IL6 	 Intron Variant	IL6-AS1 	 Non Coding Transcript Variant
+85	rs2069812	Not Reported in ClinVar	Not reported	IL5 	 Intron Variant	None	None
+88	rs743409	Not Reported in ClinVar	Not reported	MAPK1 	 Intron Variant	None	None
+92	rs4251961	Not Reported in ClinVar	Not reported	IL1RN 	 Intron Variant	None	None
+102	rs11913721	Not Reported in ClinVar	Not reported	MAPK1 	 Intron Variant	None	None
+107	rs2227284	Not Reported in ClinVar	Not reported	IL4 	 Intron Variant	None	None
+114	rs10767664	Not Reported in ClinVar	Not reported	BDNF 	 Intron Variant	None	None
+116	rs1927914	Not Reported in ClinVar	Not reported	TLR4 	 2KB Upstream Variant	None	None
+120	rs12722489	Not Reported in ClinVar	Not reported	IL2RA 	 Intron Variant	None	None

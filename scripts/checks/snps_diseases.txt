@@ -1,0 +1,51 @@
+############# RR v EU #############
+Eczema
+Asthma (childhood onset)
+Systemic lupus erythematosus
+Coronary artery calcification
+Voxel-wise structural brain imaging measurements in Alzheimerâs disease
+Asthma
+Psoriasis vulgaris
+QRS duration
+Serum metabolite levels
+Urinary metabolite levels in chronic kidney disease
+QRS complex (Sokolow-Lyon)
+Blood metabolite levels
+Allergic sensitization
+Urinary metabolite modules (eigenmetabolites) in chronic kidney disease
+Body mass index
+IgE grass sensitization
+Blood protein levels
+QRS complex (12-leadsum)
+Psoriasis or type 2 diabetes (trans-disease meta-analysis)
+Asthma (age of onset)
+Allergic disease (asthma, hay fever or eczema)
+Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)
+Psoriasis
+Height
+Crohn's disease
+Protein quantitative trait loci (liver)
+Multiple sclerosis
+Celiac disease
+Eosinophil counts
+############# RR v CT #############
+Eczema
+Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)
+Asthma (childhood onset)
+Psoriasis
+Psoriasis vulgaris
+Psoriasis or type 2 diabetes (trans-disease meta-analysis)
+Allergic disease (asthma, hay fever or eczema)
+############# CT v EU #############
+Eczema
+Psoriasis or type 2 diabetes (trans-disease meta-analysis)(opposite effect)
+Height
+Asthma (childhood onset)
+QRS complex (Sokolow-Lyon)
+Coronary artery calcification
+Psoriasis
+QRS duration
+Psoriasis vulgaris
+QRS complex (12-leadsum)
+Psoriasis or type 2 diabetes (trans-disease meta-analysis)
+Allergic disease (asthma, hay fever or eczema)
